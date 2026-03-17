@@ -96,7 +96,7 @@ movie-recommender
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/movie-recommender.git
+git clone https://github.com/yourusername/movie-recommender.git](https://github.com/riyaahhh/Movie-recommendation-
 
 ### 2. Navigate to Project Folder
 
